@@ -6,5 +6,7 @@ public class Main {
     }
 
     //Mustafa calisma
-    //Mustafa calisma2
+    //bgm calisma
+   //Mustafa calisma2
+
 }
